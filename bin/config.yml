@@ -1,0 +1,8 @@
+prefix: "&6&l(!) &f"
+rewards:
+  1:
+    command: "give %player% diamond 10"
+    message: "&aYou have been given 10 Diamonds!"
+  2:
+    command: "give %player% obsidian 10"
+    message: "&aYou have been given 10 Obsidian!"

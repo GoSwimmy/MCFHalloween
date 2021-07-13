@@ -1,0 +1,6 @@
+main: us.mcfriendly.halloween.Main
+name: MCF-Halloween
+version: 1.0
+author: GoSwimmy
+commands:
+  halloween:
